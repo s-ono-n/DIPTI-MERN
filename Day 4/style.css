@@ -1,0 +1,39 @@
+.headin1 {
+    color: hotpink;
+}
+
+.nepal {
+    color: magenta;
+    font-size: 50px;
+    font-weight: bolder;
+    /* text-transform: uppercase; /
+font-variant: small-caps;
+letter-spacing: 2px;
+word-spacing: 5px;
+text-decoration: underline;
+text-decoration-style: double;
+text-decoration-thickness: 1px;
+font-style: italic;
+text-shadow: -3px 3px 3px black;
+-webkit-text-stroke: 1px yellow;
+/ text-underline-offset: 60px; /
+font-family: Arial;
+border: 2px solid black;
+/ / /
+/ border-color: black; /
+/ border-style: solid; /
+/ border-width: 2px; /
+/ border-top: 2px dotted black; /
+/ border-right: 8px dashed blue; /
+/ border-bottom: 20px double red; /
+/ border-left: 4px solid yellowgreen; /
+/ padding: 20px; */
+    padding-top: 0%;
+    padding-right: 3px;
+    padding-bottom: 4px;
+    padding-left: 2px;
+    padding: 0px 3px 4px 2px;
+    width: max-content;
+    margin: 4px 5px 7px 5px;
+    margin: auto;
+}

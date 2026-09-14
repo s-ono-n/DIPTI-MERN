@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+.container {
+  width: 300px;
+  height: 200px;
+  background: limegreen;
+  position: relative;
+  bottom: -20px;
+  right: -20px;
+  margin-bottom: 200vh;
+}
+.main {
+  width: 100px;
+  height: 100px;
+  background: red;
+  position: absolute;
+  top: 50px;
+  right: 100px;
+  border-radius: 50%;
+}
+
+.g2t{
+  width: 40px;
+  height: 40px;
+  position: fixed;
+  background: #000;
+  color: #fff;
+  right: 20px;
+  bottom: 20px;
+  text-align:center ;
+  cursor: pointer;
+  line-height: 50px;
+}
+
+.gasNai{
+  width: 30px;
+  height: 300px;
+  background: #000;
+  padding: 5px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+ .curentNai{
+  width: 20px;
+  height: 20px;
+  background: yellow;
+  position: sticky;
+  top: 20px;
+ }
